@@ -18,6 +18,13 @@ console.log(currentDate);
 
  })
 
+// save note in local storage...
+// identify the key and reproduce for all the same attributes..
+
+//when load first time get the data from local storage and display on the page.
+// at same time figure out the colur for text area and hour
+
+// for color add a class or update with jquery
 
 
 
